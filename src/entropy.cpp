@@ -1,3 +1,4 @@
+#include <array>
 #include "entropy.h"
 #include "exceptions.h"
 #include "consts.h"
